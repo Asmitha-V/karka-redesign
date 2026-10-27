@@ -1,3 +1,4 @@
+
 # Karka AI & Tech Academy: website redesign
 
 Static, framework-free site (HTML, CSS, vanilla JS). No build step.
@@ -9,3 +10,5 @@ Static, framework-free site (HTML, CSS, vanilla JS). No build step.
 Before submitting, check the notes in `index.html`:
 1. Placement figures match karka.academy/placement (24 LPA, 100%, 50+, 120%). Karka's meta tags say 95% and 500+, so confirm which to show.
 2. Replace the "portfolio by track" list with named, real Agile Tribers projects.
+# karka-redesign
+
